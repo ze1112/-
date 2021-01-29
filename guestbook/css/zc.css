@@ -1,0 +1,28 @@
+body{
+    margin: 0px ;
+    padding: 0px;
+    font-size: 20px;
+}
+#container{
+    margin: 300px auto;
+    width: 400px;
+    height: 300px;
+    text-align: center;
+}
+#content{
+    width: 300px;
+    text-align: right;
+    margin-top: 100px;
+}
+input{
+    margin-top: 10px;
+    text-align: left;
+}
+#zc{
+    width: 30%;
+    height: 30px;
+    margin-left: 70px;
+    border-radius: 5px;
+    text-align: center;
+    font: 20px/1.2em 微软雅黑;
+}

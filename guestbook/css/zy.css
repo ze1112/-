@@ -1,0 +1,140 @@
+body{
+    margin: 10px;
+    padding: 0px;
+    background: url(../img/111.jpg) fixed;
+}
+div{
+    margin: 0px auto;
+    
+}
+h1{
+    width: 100px;
+    margin: 10px auto;
+    color: #09f;
+}
+.zx{
+    width: 30px;
+    float: right;
+    color: #f00;
+    font-size: 20px;
+    font-family: 黑体;
+    text-decoration: none;
+}
+p+hr{
+    display: none;
+    clear: both;
+}
+span{
+    color: #f00;
+    font-weight: bold;
+}
+#liuyan2{
+    width: 450px;
+    height: 200px;
+    border: 1px solid #f00;
+    background-color: #fff;
+    text-align: center;
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+}
+.one{
+    margin-top: 30px;
+    padding: 10px;
+    height: 230px;
+}
+.one:hover{
+    background-color: rgb(153 153 153 / 0.5);
+}
+
+.zhezhao{
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    background: #000000;
+    opacity: 0.3;
+    display: none;
+}
+.span1{
+    position: absolute;
+    top: 20px;
+    left: 15px;
+}
+select#had {
+    position: absolute;
+    top: 22px;
+    left: 275px;
+}
+img#img1 {
+    position: absolute;
+    top: 100px;
+    left: 351px;
+    width: 100px;
+}
+span.span2 {
+    position: absolute;
+    top: 45px;
+    left: 15px;
+}
+span.span3 {
+    position: absolute;
+    top: 90px;
+    left: 15px;
+}
+button#bt {
+    position: absolute;
+    top: 175px;
+}
+#wd{
+    width: 600px;
+    margin: 0px auto;
+}
+.down{
+    float: right;
+}
+div#page a{
+    font-size: 18px;
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+}
+header{
+    font-size: 18px;
+}
+div div a{
+
+    display: none;
+}
+div div:hover a{
+    display: inline;
+}
+div#rel {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    display: none;
+}
+div#rel textarea{
+    height: 194px;
+    width: 367px;
+    font-size: 20px;
+}
+buttom.rel-bt {
+    border: 1px solid #ccc;
+    border-radius: 7px;
+    background: rgb(11 19 123 / 22%);
+    color: #ccc;
+    padding: 3px;
+    cursor: pointer;
+}
+a#liuyan {
+    color: #ccc;
+    text-decoration: none;
+    border: 1px solid;
+    padding: 3px;
+    border-radius: 7px;
+    background: rgb(80 164 189 / 68%);
+}
